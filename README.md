@@ -1,6 +1,6 @@
 ## PP-TRAPPER: Agent Planning Programs via Trap Reasoning
 
-This is the PP-LPG solver for APP adapted to include dead-end (i.e., traps) reasoning:
+This repo contains a solver/executor for Agent Planning Programs (APP) that incorporates global dead-end reasoning so that local planning for the next goal takes into accont dead-ends states for future goals:¨
 
 * Lukás Chrpa, Nir Lipovetzky, Sebastian Sardiña: [Handling non-local dead-ends in Agent Planning Programs](https://www.ijcai.org/Proceedings/2017/135). IJCAI 2017: 971-978
 
