@@ -4,6 +4,10 @@ This repo contains a solver/executor for Agent Planning Programs (APP) that inco
 
 * Lukás Chrpa, Nir Lipovetzky, Sebastian Sardiña: [Handling non-local dead-ends in Agent Planning Programs](https://www.ijcai.org/Proceedings/2017/135). IJCAI 2017: 971-978
 
+Offline solvers and online executors, with and without dead-ends reasoning, were tested:
+
+![](experiments-table.png)
+
 ## Pre-requisites
 
 Before running the solvers, make sure that:
